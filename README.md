@@ -2,6 +2,9 @@
 ## About Me
 I am a current MPhil in CS @ CityU supervised by [Prof. JunQiao Qiu](https://junqiaoqiu.github.io/)
 
+## Contact
+- Email: [CityU Edu Email](mailto@zeyliu4-c@my.cityu.edu.hk)
+
 ## Skills
 - Programming Languages: C++, Python, JS/TS, Java
 - Web Development: HTML, CSS, React, Vite
@@ -23,7 +26,3 @@ I am a current MPhil in CS @ CityU supervised by [Prof. JunQiao Qiu](https://jun
 - Video Gaming
 - Cooking
 - Badminton
-
-
-## Contact
-- Email: zeyliu4-c@my.cityu.edu.hk
