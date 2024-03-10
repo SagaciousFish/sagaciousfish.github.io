@@ -1,6 +1,6 @@
-# This is Zeyu Liu's website
+# Zeyu Liu
 ## About Me
-I am a current MPhil student @ CityU supervised by [Prof. JunQiao Qiu](https://junqiaoqiu.github.io/)
+I am a current MPhil in CS @ CityU supervised by [Prof. JunQiao Qiu](https://junqiaoqiu.github.io/)
 
 ## Skills
 - Programming Languages: C++, Python, JS/TS, Java
@@ -13,6 +13,17 @@ I am a current MPhil student @ CityU supervised by [Prof. JunQiao Qiu](https://j
 - Agile Methodologies: Scrum, Kanban, Extreme Programming
 - Editoring: Vim, LaTex, Typst
 - ...
+
+## More Info
+### Nicknames
+- Jack, LeMon, SagaFish
+
+### Hobby
+- Singing
+- Video Gaming
+- Cooking
+- Badminton
+
 
 ## Contact
 - Email: zeyliu4-c@my.cityu.edu.hk
