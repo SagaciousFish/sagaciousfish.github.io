@@ -2,7 +2,7 @@
 ## About Me
 I am a current MPhil in CS @ CityU supervised by [Prof. JunQiao Qiu](https://junqiaoqiu.github.io/)
 
-Education
+## Education
 MPhil in Computer Science, City University of Hong Kong, 2024-Today
 Bachelor of Computing (Computer Science & Software Development), University of Sydney, 2019-2023
 
