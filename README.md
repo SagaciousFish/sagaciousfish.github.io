@@ -1,4 +1,4 @@
-# Zeyu Liu $刘^{lau4}泽^{zaak6}谕^{jyu6}$
+# Zeyu Liu
 ## About Me
 I am a current MPhil in CS @ CityU supervised by [Prof. JunQiao Qiu](https://junqiaoqiu.github.io/)
 
