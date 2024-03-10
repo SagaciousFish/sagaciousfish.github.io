@@ -4,7 +4,7 @@ I am a current MPhil in CS @ CityU supervised by [Prof. JunQiao Qiu](https://jun
 
 ## Education
 - MPhil in Computer Science, City University of Hong Kong, 2024-Today
-- Bachelor of Computing (Computer Science & Software Development), University of Sydney, 2019-2023
+- Bachelor of Computing (CS & SD), University of Sydney, 2019-2023
 
 ## Contact
 - Email: [CityU Edu Email](mailto:zeyliu4-c@my.cityu.edu.hk)
